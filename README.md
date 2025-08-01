@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Md Shipon Bapari
+# 👋 Hi, I'm Shipon Hossen Raju
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jahid...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shipon...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-🚀 A passionate **Full Stack Developer** from Bangladesh with a strong focus on building scalable and user-centric web applications. I specialize in the **MERN stack**, modern DevOps tools, and clean code architecture. Currently working full-time at a local software company and building my long-term career as a developer.
+🚀 A passionate **Full Stack Developer** from Bangladesh with a strong focus on building scalable and user-centric web applications. I specialize in the **MERN stack**, modern DevOps tools, and clean code architecture. building my long-term career as a developer.
 
 ---
 
