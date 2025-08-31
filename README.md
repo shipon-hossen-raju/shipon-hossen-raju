@@ -54,11 +54,13 @@
 
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-563D7C?style=flat?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![React Router Dom](https://img.shields.io/badge/React_Router-CA4245?style=flat?style=for-the-badge&logo=react-router&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-563D7C?style=flat?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat?style=for-the-badge&logo=firebase&logoColor=black)
 
+**State Management**  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat?style=for-the-badge&logo=redux&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat?style=for-the-badge&logo=redux&logoColor=white)
 
 **UI Library**  
-![Ant design](https://img.shields.io/badge/Flowbite-?style=flat?style=for-the-badge&logo=ant-design&logoColor=white) ![Ant design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat?style=for-the-badge&logo=ant-design&logoColor=white) ![Daisy UI](https://img.shields.io/badge/Daisy_UI-00C4A7?style=flat?style=for-the-badge&logo=daisyui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000000?style=flat&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
 
 **Backend & Database**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -76,22 +78,16 @@
 
 **Real-Time & Others**  
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
-<!-- 
-**Tools**
 
-  <img src=""/>
-  <img src=""/>
 
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat?style=for-the-badge&logo=react-router&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat?style=for-the-badge&logo=firebase&logoColor=black"/>
-  
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat?style=for-the-badge&logo=redux&logoColor=white"/>
-  
+**Tools & IDE**  
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat?style=for-the-badge&logo=postman&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat?style=for-the-badge&logo=figma&logoColor=white"/>
 
 
 - Controller-Service Architecture
